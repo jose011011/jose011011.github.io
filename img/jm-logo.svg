@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Logo JM de Juan José Mamani">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#061A44"/><stop offset="1" stop-color="#020B1E"/></linearGradient>
+    <linearGradient id="ltr" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#1E6BFF"/><stop offset="1" stop-color="#00C8FA"/></linearGradient>
+    <linearGradient id="orb" x1="0" x2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset=".55" stop-color="#00C8FA"/><stop offset="1" stop-color="#1E6BFF" stop-opacity=".2"/></linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="28" fill="url(#bg)"/>
+  <g transform="translate(60 58) skewX(-14) translate(-60 -58)" fill="url(#ltr)">
+    <!-- J -->
+    <path d="M38 30 h12 v38 a16 16 0 0 1 -16 16 h-8 v-11 h7 a5 5 0 0 0 5 -5 z"/>
+    <!-- M -->
+    <path d="M56 84 V30 h11 l9 18 l9 -18 h11 v54 h-11 V52 l-9 17 l-9 -17 v32 z"/>
+  </g>
+  <path d="M30 52 C 6 66, 8 92, 48 92 C 78 92, 104 74, 110 40" fill="none" stroke="url(#orb)" stroke-width="4.5" stroke-linecap="round"/>
+  <circle cx="110" cy="40" r="4.2" fill="#FFFFFF"/>
+</svg>
